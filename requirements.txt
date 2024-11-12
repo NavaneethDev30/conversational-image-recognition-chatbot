@@ -1,5 +1,5 @@
 streamlit
-pillow 
+pillow
 requests
 matplotlib
 tensorflow
@@ -9,3 +9,4 @@ tf-keras
 easygoogletranslate
 groq
 gdown
+llama-cpp-python
